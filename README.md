@@ -25,9 +25,9 @@ Employee Tracker is a command-line application that allows the user to:
 
 ## Technologies Used
 
-MySql
-Node
-JS
+* MySql
+* Node
+* JS
 
 
 ### License
