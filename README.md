@@ -16,7 +16,7 @@ Employee Tracker is a command-line application that allows the user to:
 ## Setup/Installation Requirements
 
 * Clone this repository.
-* Open repositories in your terminal.
+* Open repository in your terminal.
 * Use the create_employee.sql file to create the database in MySql and seed_data.sql from the db folder to populate the data.
 * NPM Install in order to use the following packages: MySQL, Inquirer , util and console.table
 * Command line: node server.js to get the app up and running. 
