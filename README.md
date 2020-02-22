@@ -23,7 +23,7 @@ Employee Tracker is a command-line application that allows the user to:
 
 ## Known Bugs
 
-There seems to be an issue with inquirer having memory leak so a line of code was added to alleviate the leaks.
+There seems to be an issue with inquirer having memory leaks so a line of code was added to alleviate the leaks.
 
 ## Technologies Used
 
