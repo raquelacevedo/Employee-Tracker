@@ -1,4 +1,6 @@
 const inquirer = require("inquirer");
+//this prevents memory leakage with inquirer....
+const events = require('events').EventEmitter.prototype._maxListeners = 100;
 
 const questMenu = require("./lib/menu");
 const department = require("./lib/department");

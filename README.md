@@ -21,7 +21,9 @@ Employee Tracker is a command-line application that allows the user to:
 * NPM Install in order to use the following packages: MySQL, Inquirer , util and console.table
 * Command line: node server.js to get the app up and running. 
 
+## Known Bugs
 
+There seems to be an issue with inquirer having memory leak so a line of code was added to alleviate the leaks.
 
 ## Technologies Used
 
